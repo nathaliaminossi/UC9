@@ -1,0 +1,4 @@
+com\mycompany\loginhash\dao\UsuarioDAO.class
+com\mycompany\loginhash\model\Usuario.class
+com\mycompany\loginhash\LoginHash.class
+com\mycompany\loginhash\database\ConnectionSQL.class
